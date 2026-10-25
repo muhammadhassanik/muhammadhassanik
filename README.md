@@ -1,16 +1,21 @@
-## Hi there 👋
+# Assalam U Alaikum!, I'm Muhammad Hassan Ikram 👋
 
-<!--
-**muhammadhassanik/muhammadhassanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BS Artificial Intelligence student at Riphah International University and the Co-Founder and President of Al-Ilām Foundation. I am dedicated to leveraging technology, software development, and education to drive social impact and empower the community.
 
-Here are some ideas to get you started:
+* 🌙 Creating Islamic, educational, and motivational content on Al-ilm Path to inspire the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 What I'm Doing**
+* 🎓 Studying advanced data science, algorithms, and AI architecture.
+* 🌍 Leading community initiatives, fundraising, and impact drives at Al-Ilām Foundation.
+* 🎥 Creating educational tech and motivational content on Al-ilm Path.
+* 💻 Tutoring in Computer Science, Quran, and English.
+
+**💻 Tech Stack**
+* **Languages:** Python, Java, C++, SQL, HTML/CSS
+* **Data & AI:** NumPy, Pandas, Jupyter Notebooks
+* **Tools & Databases:** Git/GitHub, VS Code, MySQL, Oracle Database, Proteus
+
+**📫 Connect With Me**
+Check out my linked social profiles at the top of this page to collaborate on AI projects, tech education, or humanitarian initiatives.
+
+
